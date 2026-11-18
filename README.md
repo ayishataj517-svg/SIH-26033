@@ -1,3 +1,4 @@
+
 # Smart India Hackathon Workshop
 # Date:18/11/2026
 ## Reference Number:26009481
@@ -117,6 +118,7 @@ flowchart TD
     K --> L[Order Delivery]
     L --> M[Order Confirmation]
 
+<img width="1600" height="900" alt="SIH HACATHON" src="https://github.com/user-attachments/assets/28a7c75d-10eb-4cb7-b131-2f9e0e5e0aa9" />
 
 Feasibility and Viability
 
